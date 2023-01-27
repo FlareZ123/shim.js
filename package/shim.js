@@ -3,6 +3,7 @@
 // @namespace    https://ksw2-center.glitch.me/
 // @description  Ethical analytics in one click. Simple as that.
 // @author       ksw2 developers
+// @match        *://*/*
 // ==/UserScript==
 /**
  * [ksw2-analytics]{@link https://ksw2-center.glitch.me}
